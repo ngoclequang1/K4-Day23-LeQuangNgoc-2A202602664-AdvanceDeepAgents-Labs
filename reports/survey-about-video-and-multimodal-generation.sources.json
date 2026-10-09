@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2405.13195",
+    "url": "https://huggingface.co/papers/2405.13195",
+    "title": "CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers",
+    "date": "2024-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2504.08641",
+    "url": "https://huggingface.co/papers/2504.08641",
+    "title": "Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization",
+    "date": "2025-04-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2502.19455",
+    "url": "https://huggingface.co/papers/2502.19455",
+    "title": "FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion model",
+    "date": "2025-02-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2504.16081",
+    "url": "https://dl.acm.org/doi/10.1145/3802588",
+    "title": "A Survey: Spatiotemporal Consistency in Video Generation",
+    "date": "2026-05-18",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2403.01800",
+    "url": "https://huggingface.co/papers/2403.01800",
+    "title": "AtomoVideo: High Fidelity Image-to-Video Generation",
+    "date": "2024-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2501.13452",
+    "url": "https://huggingface.co/papers/2501.13452",
+    "title": "EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion",
+    "date": "2025-01-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2402.03040",
+    "url": "https://huggingface.co/papers/2402.03040",
+    "title": "InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2405.17927",
+    "url": "https://academic.oup.com/nsr/article/12/5/nwaf050/8029900",
+    "title": "Generative Artificial Intelligence: A Historical Perspective",
+    "date": "2025-02-21",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2504.16081",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "title": "Video diffusion generation: comprehensive review and open problems",
+    "date": "2025-08-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2604.06339",
+    "url": "https://arxiv.org/html/2604.06339",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "2026-04-07",
+    "source": "arxiv"
+  }
+]

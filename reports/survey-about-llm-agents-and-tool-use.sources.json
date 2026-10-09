@@ -1,0 +1,162 @@
+[
+  {
+    "n": 1,
+    "id": "web-openai-function-calling",
+    "url": "https://platform.openai.com/docs/guides/function-calling",
+    "title": "Function calling",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "web-anthropic-tool-use",
+    "url": "https://docs.anthropic.com/en/docs/build-with-claude/tool-use/overview",
+    "title": "Tool use with Claude",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "web-langchain-agents",
+    "url": "https://docs.langchain.com/oss/python/langchain/agents",
+    "title": "Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arxiv-2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "arxiv-2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "arxiv-2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "hf-2402.01817",
+    "url": "https://huggingface.co/papers/2402.01817",
+    "title": "LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks",
+    "date": "2024-06-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "arxiv-2304.08244",
+    "url": "https://arxiv.org/abs/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "web-agentboard",
+    "url": "https://huggingface.co/papers/2401.13178",
+    "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+    "date": "2024-01-23",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "web-teval",
+    "url": "https://huggingface.co/papers/2312.14033",
+    "title": "T-Eval: Evaluating the Tool Utilization Capability Step by Step",
+    "date": "2023-12-21",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "web-seal",
+    "url": "https://huggingface.co/papers/2409.15523",
+    "title": "SEAL: Suite for Evaluating API-use of LLMs",
+    "date": "2024-09-23",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "web-taubench",
+    "url": "https://huggingface.co/papers/2406.12045",
+    "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "2024-06-17",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "hf-2412.14470",
+    "url": "https://huggingface.co/papers/2412.14470",
+    "title": "Agent-SafetyBench: Evaluating the Safety of LLM Agents",
+    "date": "2024-12-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "hf-2503.23278",
+    "url": "https://huggingface.co/papers/2503.23278",
+    "title": "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions",
+    "date": "2025-03-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "web-multiagent",
+    "url": "https://arxiv.org/abs/2504.17950",
+    "title": "Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning",
+    "date": "2025-04-24",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "web-protocol-survey",
+    "url": "https://huggingface.co/papers/2505.02279",
+    "title": "A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)",
+    "date": "2025-05-04",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "hf-2610.08902",
+    "url": "https://huggingface.co/papers/2610.08902",
+    "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 18,
+    "id": "hf-2610.06406",
+    "url": "https://huggingface.co/papers/2610.06406",
+    "title": "What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents",
+    "date": "2026-10-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 19,
+    "id": "hf-2507.21504",
+    "url": "https://huggingface.co/papers/2507.21504",
+    "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "date": "2025-07-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "hf-2610.12419",
+    "url": "https://huggingface.co/papers/2610.12419",
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

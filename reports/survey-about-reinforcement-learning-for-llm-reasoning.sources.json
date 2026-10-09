@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv-2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "hf-dpo",
+    "url": "https://huggingface.co/docs/trl/main/en/dpo_trainer",
+    "title": "DPO Trainer",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arxiv-2402.03300",
+    "url": "https://arxiv.org/html/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "arxiv-2501.12948",
+    "url": "https://arxiv.org/html/2501.12948v1",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "arxiv-2504.11343",
+    "url": "https://arxiv.org/abs/2504.11343",
+    "title": "A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce",
+    "date": "2025-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "hf-open-r1-update-3",
+    "url": "https://huggingface.co/blog/open-r1/update-3",
+    "title": "Open R1: Update #3",
+    "date": "2025-03-11",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "openai-process-supervision",
+    "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/",
+    "title": "Improving mathematical reasoning with process supervision",
+    "date": "2023-05-31",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "hf-prm",
+    "url": "https://huggingface.co/papers/2501.07301",
+    "title": "The Lessons of Developing Process Reward Models in Mathematical Reasoning",
+    "date": "2025-01-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "arxiv-2508.05170",
+    "url": "https://arxiv.org/html/2508.05170v1",
+    "title": "Posterior-GRPO: Rewarding Reasoning Processes in Code Generation",
+    "date": "2025-08-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "arxiv-2505.24864",
+    "url": "https://arxiv.org/abs/2505.24864",
+    "title": "ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models",
+    "date": "2025-05-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "arxiv-2507.10532",
+    "url": "https://arxiv.org/abs/2507.10532",
+    "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+    "date": "2025-07-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "arxiv-2508.04848",
+    "url": "https://arxiv.org/abs/2508.04848",
+    "title": "Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning",
+    "date": "2025-08-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "web-nature-r1",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+    "date": "2025-09-17",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "hf-open-r1",
+    "url": "https://huggingface.co/blog/open-r1",
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "date": "2025-01-28",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "arxiv-2503.06639",
+    "url": "https://arxiv.org/abs/2503.06639",
+    "title": "Reinforcement Learning with Verifiable Rewards: GRPO's Effective Loss, Dynamics, and Success Amplification",
+    "date": "2025-03-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "arxiv-2504.20571",
+    "url": "https://arxiv.org/abs/2504.20571",
+    "title": "Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
+    "date": "2025-04-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "openai-learning-to-reason",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "arxiv-2501.09686",
+    "url": "https://arxiv.org/abs/2501.09686",
+    "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "2025-01-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "hf-2506.08388",
+    "url": "https://huggingface.co/papers/2506.08388",
+    "title": "Reinforcement Learning Teachers of Test Time Scaling",
+    "date": "2025-06-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "hf-daily-2610.08077",
+    "url": "https://huggingface.co/papers/2610.08077",
+    "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 21,
+    "id": "arxiv-2510.07312",
+    "url": "https://arxiv.org/abs/2510.07312",
+    "title": "h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning",
+    "date": "2025-10-08",
+    "source": "arxiv"
+  }
+]

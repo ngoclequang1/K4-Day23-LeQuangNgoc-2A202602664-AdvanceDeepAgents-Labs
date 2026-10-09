@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "https://dl.acm.org/doi/10.1145/3711896.3736563",
+    "url": "https://dl.acm.org/doi/10.1145/3711896.3736563",
+    "title": "A Survey on Small Language Models in the Era of Large Language Models",
+    "date": "2025-08-03",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2505.19529",
+    "url": "https://huggingface.co/papers/2505.19529",
+    "title": "Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation",
+    "date": "2025-05-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2411.03350",
+    "url": "http://arxiv.org/abs/2411.03350",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of Large Language Models",
+    "date": "2024-12-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2510.03515",
+    "url": "https://huggingface.co/papers/2510.03515",
+    "title": "RAPID: An Efficient Reinforcement Learning Algorithm for Small Language Models",
+    "date": "2025-10-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2606.01806",
+    "url": "https://huggingface.co/papers/2606.01806",
+    "title": "ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference",
+    "date": "2026-06-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2511.06512",
+    "url": "https://huggingface.co/papers/2511.06512",
+    "title": "EASE: Practical and Efficient Safety Alignment for Small Language Models",
+    "date": "2025-11-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2404.03353",
+    "url": "https://arxiv.org/pdf/2404.03353v3.pdf",
+    "title": "Towards Pareto Optimal Throughput in Small Language Model Serving",
+    "date": "n.d.",
+    "source": "arxiv"
+  }
+]
